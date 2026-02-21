@@ -1,6 +1,6 @@
 {
   "meta": {
-    "logoBaseUrl": "https://i1.sndcdn.com/artworks-000103683025-3jm4r1-t500x500.jpg",
+    "logoBaseUrl": "",
     "audioFilePattern": "{server}{surah:03}.mp3"
   },
   "reciters": [
@@ -136,7 +136,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/akdr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/1.png"
+      "logoUrl": "https://i1.sndcdn.com/artworks-000103683025-3jm4r1-t500x500.jpg"
     },
     {
       "id": 10,
@@ -270,7 +270,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/akrm/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/10.png"
+      "logoUrl": "https://ar.assabile.com/media/person/200x256/akram-al-aalakmi.png"
     },
     {
       "id": 100,
@@ -403,7 +403,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/majd_onazi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/100.png"
+      "logoUrl": "https://i1.sndcdn.com/artworks-000228408415-047e5f-t500x500.jpg"
     },
     {
       "id": 102,
@@ -31715,5 +31715,6 @@
     }
   ]
 }
+
 
 
