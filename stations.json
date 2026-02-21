@@ -132,12 +132,6 @@
     "genre": "General"
   },
   {
-    "name": "Radio Coran",
-    "streamUrl": "http://coran.ice.infomaniak.ch/coran-128.mp3",
-    "logoUrl": "https://cdn.instant.audio/images/logos/radio-co-ma/coran.png",
-    "genre": "Religious"
-  },
-  {
     "name": "Hit Radio TikTok",
     "streamUrl": "http://tiktok.ice.infomaniak.ch/tiktok-128.mp3",
     "logoUrl": "https://hittradio.com/uploads/webradio/100__TIKTOK.jpg",
@@ -184,8 +178,8 @@
   {
     "name": "Radio Zine Bladi",
     "streamUrl": "https://asmaki.ma:8000/radio.mp3",
-    "logoUrl": "https://www.zinebladi.ma/images/global-logo.svg",
-    "genre": "Music"
+    "logoUrl": "https://dawa.center/images/60b369e4bec8b.jpg",
+    "genre": "Religious"
   },
   {
     "name": "Marrakech Plus",
