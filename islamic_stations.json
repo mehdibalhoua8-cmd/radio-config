@@ -1,299 +1,1052 @@
 [
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u0627\u0644\u0623\u062e\u0636\u0631",
+    "name": "إذاعة إبراهيم الأخضر",
     "streamUrl": "https://backup.qurango.net/radio/ibrahim_alakdar",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0634\u064a\u062e \u0623\u0628\u0648 \u0628\u0643\u0631 \u0627\u0644\u0634\u0627\u0637\u0631\u064a",
+    "name": "إذاعة شيخ أبو بكر الشاطري",
     "streamUrl": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0623\u062d\u0645\u062f \u0627\u0644\u0639\u062c\u0645\u064a",
+    "name": "إذاعة أحمد العجمي",
     "streamUrl": "https://backup.qurango.net/radio/ahmad_alajmy",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0623\u062d\u0645\u062f \u0627\u0644\u062d\u0648\u0627\u0634\u064a",
+    "name": "إذاعة أحمد الحواشي",
     "streamUrl": "https://backup.qurango.net/radio/ahmad_alhawashi",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0623\u062d\u0645\u062f \u0635\u0627\u0628\u0631",
+    "name": "إذاعة أحمد صابر",
     "streamUrl": "https://backup.qurango.net/radio/ahmad_saber",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0623\u062d\u0645\u062f \u0646\u0639\u064a\u0646\u0639",
+    "name": "إذاعة أحمد نعينع",
     "streamUrl": "https://backup.qurango.net/radio/ahmad_nauina",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0623\u0643\u0631\u0645 \u0627\u0644\u0639\u0644\u0627\u0642\u0645\u064a",
+    "name": "إذاعة أكرم العلاقمي",
     "streamUrl": "https://backup.qurango.net/radio/akram_alalaqmi",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0625\u062f\u0631\u064a\u0633 \u0623\u0628\u0643\u0631",
+    "name": "إذاعة إدريس أبكر",
     "streamUrl": "https://backup.qurango.net/radio/idrees_abkr",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0632\u064a\u0646 \u0645\u062d\u0645\u062f \u0623\u062d\u0645\u062f",
+    "name": "إذاعة الزين محمد أحمد",
     "streamUrl": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0642\u0627\u0631\u0626 \u064a\u0627\u0633\u064a\u0646",
+    "name": "إذاعة القارئ ياسين",
     "streamUrl": "https://backup.qurango.net/radio/alqaria_yassen",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
-
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0627\u0644\u0639\u064a\u0648\u0646 \u0627\u0644\u0643\u0648\u0634\u064a",
+    "name": "إذاعة العيون الكوشي",
     "streamUrl": "https://backup.qurango.net/radio/aloyoon_alkoshi",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u062a\u0648\u0641\u064a\u0642 \u0627\u0644\u0635\u0627\u064a\u063a",
+    "name": "إذاعة توفيق الصايغ",
     "streamUrl": "https://backup.qurango.net/radio/tawfeeq_assayegh",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u062c\u0645\u0627\u0644 \u0634\u0627\u0643\u0631 \u0639\u0628\u062f\u0627\u0644\u0644\u0647",
+    "name": "إذاعة جمال شاكر عبدالله",
     "streamUrl": "https://backup.qurango.net/radio/jamal_shaker_abdullah",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u062e\u0627\u0644\u062f \u0627\u0644\u0642\u062d\u0637\u0627\u0646\u064a",
+    "name": "إذاعة خالد القحطاني",
     "streamUrl": "https://backup.qurango.net/radio/khaled_alqahtani",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u062e\u0627\u0644\u062f \u0639\u0628\u062f\u0627\u0644\u0643\u0627\u0641\u064a",
+    "name": "إذاعة خالد عبدالكافي",
     "streamUrl": "https://backup.qurango.net/radio/khalid_abdulkafi",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u062e\u0644\u064a\u0641\u0629 \u0627\u0644\u0637\u0646\u064a\u062c\u064a",
+    "name": "إذاعة خليفة الطنيجي",
     "streamUrl": "https://backup.qurango.net/radio/khalifa_altunaiji",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
-
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0633\u0639\u062f \u0627\u0644\u063a\u0627\u0645\u062f\u064a",
+    "name": "إذاعة سعد الغامدي",
     "streamUrl": "https://backup.qurango.net/radio/saad_alghamdi",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0633\u0639\u0648\u062f \u0627\u0644\u0634\u0631\u064a\u0645",
+    "name": "إذاعة سعود الشريم",
     "streamUrl": "https://backup.qurango.net/radio/saud_alshuraim",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0633\u0647\u0644 \u064a\u0627\u0633\u064a\u0646",
+    "name": "إذاعة سهل ياسين",
     "streamUrl": "https://backup.qurango.net/radio/sahl_yassin",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0632\u0643\u064a \u062f\u0627\u063a\u0633\u062a\u0627\u0646\u064a",
+    "name": "إذاعة زكي داغستاني",
     "streamUrl": "https://backup.qurango.net/radio/zaki_daghistani",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0633\u064a\u062f \u0631\u0645\u0636\u0627\u0646",
+    "name": "إذاعة سيد رمضان",
     "streamUrl": "https://backup.qurango.net/radio/sayeed_ramadan",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
-
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0634\u064a\u0631\u0632\u0627\u062f \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0637\u0627\u0647\u0631",
+    "name": "إذاعة شيرزاد عبدالرحمن طاهر",
     "streamUrl": "https://backup.qurango.net/radio/shirazad_taher",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0635\u0627\u0628\u0631 \u0639\u0628\u062f\u0627\u0644\u062d\u0643\u0645",
+    "name": "إذاعة صابر عبدالحكم",
     "streamUrl": "https://backup.qurango.net/radio/saber_abdulhakm",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0635\u0644\u0627\u062d \u0627\u0644\u0628\u062f\u064a\u0631",
+    "name": "إذاعة صلاح البدير",
     "streamUrl": "https://backup.qurango.net/radio/salah_albudair",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0635\u0644\u0627\u062d \u0627\u0644\u0647\u0627\u0634\u0645",
+    "name": "إذاعة صلاح الهاشم",
     "streamUrl": "https://backup.qurango.net/radio/salah_alhashim",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0635\u0644\u0627\u062d \u0628\u0648 \u062e\u0627\u0637\u0631",
+    "name": "إذاعة صلاح بو خاطر",
     "streamUrl": "https://backup.qurango.net/radio/slaah_bukhatir",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
-
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0627\u062f\u0644 \u0631\u064a\u0627\u0646",
+    "name": "إذاعة عادل ريان",
     "streamUrl": "https://backup.qurango.net/radio/adel_ryyan",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0628\u0627\u0631\u0626 \u0627\u0644\u062b\u0628\u064a\u062a\u064a",
+    "name": "إذاعة عبدالبارئ الثبيتي",
     "streamUrl": "https://backup.qurango.net/radio/abdelbari_altoubayti",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0628\u0627\u0631\u0626 \u0645\u062d\u0645\u062f",
+    "name": "إذاعة عبدالبارئ محمد",
     "streamUrl": "https://backup.qurango.net/radio/abdulbari_mohammad",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0628\u0627\u0633\u0637 \u0639\u0628\u062f\u0627\u0644\u0635\u0645\u062f",
+    "name": "إذاعة عبدالباسط عبدالصمد",
     "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0628\u0627\u0633\u0637 \u0639\u0628\u062f\u0627\u0644\u0635\u0645\u062f",
+    "name": "إذاعة عبدالباسط عبدالصمد",
     "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0628\u0627\u0633\u0637 \u0639\u0628\u062f\u0627\u0644\u0635\u0645\u062f",
+    "name": "إذاعة عبدالباسط عبدالصمد",
     "streamUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
-
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u0633\u062f\u064a\u0633",
+    "name": "إذاعة عبدالرحمن السديس",
     "streamUrl": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u0623\u062d\u0645\u062f",
+    "name": "إذاعة عبدالعزيز الأحمد",
     "streamUrl": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0645\u0637\u0631\u0648\u062f",
+    "name": "إذاعة عبدالله المطرود",
     "streamUrl": "https://backup.qurango.net/radio/abdullah_almattrod",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0628\u0635\u0641\u0631",
+    "name": "إذاعة عبدالله بصفر",
     "streamUrl": "https://backup.qurango.net/radio/abdullah_basfer",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u062e\u064a\u0627\u0637",
+    "name": "إذاعة عبدالله خياط",
     "streamUrl": "https://backup.qurango.net/radio/abdullah_khayyat",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
-
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0639\u0648\u0627\u062f \u0627\u0644\u062c\u0647\u0646\u064a",
+    "name": "إذاعة عبدالله عواد الجهني",
     "streamUrl": "https://backup.qurango.net/radio/abdullah_aljohany",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0631\u0634\u064a\u062f \u0635\u0648\u0641\u064a",
+    "name": "إذاعة عبدالرشيد صوفي",
     "streamUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0631\u0634\u064a\u062f \u0635\u0648\u0641\u064a",
+    "name": "إذاعة عبدالرشيد صوفي",
     "streamUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0645\u062d\u0633\u0646 \u0627\u0644\u062d\u0627\u0631\u062b\u064a",
+    "name": "إذاعة عبدالمحسن الحارثي",
     "streamUrl": "https://backup.qurango.net/radio/abdulmohsin_alharthy",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0645\u062d\u0633\u0646 \u0627\u0644\u0642\u0627\u0633\u0645",
+    "name": "إذاعة عبدالمحسن القاسم",
     "streamUrl": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
-
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0645\u062d\u0633\u0646 \u0627\u0644\u0639\u0628\u064a\u0643\u0627\u0646",
+    "name": "إذاعة عبدالمحسن العبيكان",
     "streamUrl": "https://backup.qurango.net/radio/abdulmohsin_alobaikan",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0647\u0627\u062f\u064a \u0623\u062d\u0645\u062f \u0643\u0646\u0627\u0643\u0631\u064a",
+    "name": "إذاعة عبدالهادي أحمد كناكري",
     "streamUrl": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0628\u062f\u0627\u0644\u0648\u062f\u0648\u062f \u062d\u0646\u064a\u0641",
+    "name": "إذاعة عبدالودود حنيف",
     "streamUrl": "https://backup.qurango.net/radio/abdulwadood_haneef",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0644\u064a \u0628\u0646 \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062d\u0630\u064a\u0641\u064a",
+    "name": "إذاعة علي بن عبدالرحمن الحذيفي",
     "streamUrl": "https://backup.qurango.net/radio/ali_alhuthaifi",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0644\u064a \u0627\u0644\u062d\u0630\u064a\u0641\u064a",
+    "name": "إذاعة علي الحذيفي",
     "streamUrl": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
-
   {
-    "name": "\u0625\u0630\u0627\u0639\u0629 \u0639\u0644\u064a \u062c\u0627\u0628\u0631",
+    "name": " إذاعة علي جابر",
     "streamUrl": "https://backup.qurango.net/radio/ali_jaber",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
+  {
+    "name": " إذاعة علي حجاج السويسي",
+    "streamUrl": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة عماد زهير حافظ",
+    "streamUrl": "https://backup.qurango.net/radio/emad_hafez",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة عمر القزابري",
+    "streamUrl": "https://backup.qurango.net/radio/omar_alqazabri",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة فارس عباد",
+    "streamUrl": "https://backup.qurango.net/radio/fares_abbad",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة ناصر القطامي",
+    "streamUrl": "https://backup.qurango.net/radio/nasser_alqatami",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة نبيل الرفاعي",
+    "streamUrl": "https://backup.qurango.net/radio/nabil_al_rifay",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة نعمة الحسان",
+    "streamUrl": "https://backup.qurango.net/radio/neamah_alhassan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة هاني الرفاعي",
+    "streamUrl": "https://backup.qurango.net/radio/hani_arrifai",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة وليد النائحي",
+    "streamUrl": "https://backup.qurango.net/radio/waleed_alnaehi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة ياسر الدوسري",
+    "streamUrl": "https://backup.qurango.net/radio/yasser_aldosari",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة ياسر القرشي",
+    "streamUrl": "https://backup.qurango.net/radio/yasser_alqurashi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة ياسر المزروعي ",
+    "streamUrl": "https://backup.qurango.net/radio/yasser_almazroyee",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة يحيى حوا",
+    "streamUrl": "https://backup.qurango.net/radio/yahya_hawwa",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة يوسف الشويعي",
+    "streamUrl": "https://backup.qurango.net/radio/yousef_alshoaey",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة ماهر المعيقلي",
+    "streamUrl": "https://backup.qurango.net/radio/maher",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد الطبلاوي",
+    "streamUrl": "https://backup.qurango.net/radio/mohammad_altablaway",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد اللحيدان",
+    "streamUrl": "https://backup.qurango.net/radio/mohammed_allohaidan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد أيوب",
+    "streamUrl": "https://backup.qurango.net/radio/mohammed_ayyub",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد صالح عالم شاه",
+    "streamUrl": "https://backup.qurango.net/radio/mohammad_saleh_alim_shah",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد جبريل",
+    "streamUrl": "https://backup.qurango.net/radio/mohammed_jibreel",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد صديق المنشاوي",
+    "streamUrl": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد صديق المنشاوي",
+    "streamUrl": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد عبدالكريم",
+    "streamUrl": "https://backup.qurango.net/radio/mohammad_abdullkarem",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد عبدالحكيم سعيد العبدالله",
+    "streamUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد عبدالحكيم سعيد العبدالله",
+    "streamUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمود خليل الحصري",
+    "streamUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمود خليل الحصري",
+    "streamUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمود خليل الحصري",
+    "streamUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمود علي البنا",
+    "streamUrl": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمود علي البنا",
+    "streamUrl": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة مشاري العفاسي",
+    "streamUrl": "https://backup.qurango.net/radio/mishary_alafasi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة مصطفى إسماعيل",
+    "streamUrl": "https://backup.qurango.net/radio/mustafa_ismail",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة مصطفى اللاهوني",
+    "streamUrl": "https://backup.qurango.net/radio/mustafa_allahoni",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة مصطفى رعد العزاوي",
+    "streamUrl": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة مفتاح السلطني",
+    "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr ",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة ماهر شخاشيرو",
+    "streamUrl": "https://backup.qurango.net/radio/maher_shakhashero",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمود الشيمي",
+    "streamUrl": "https://backup.qurango.net/radio/mahmood_alsheimy",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة خالد المهنا",
+    "streamUrl": "https://backup.qurango.net/radio/khalid_almohana",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة عادل الكلباني",
+    "streamUrl": "https://backup.qurango.net/radio/adel_alkhalbany",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة موسى بلال",
+    "streamUrl": "https://backup.qurango.net/radio/mousa_bilal",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "حاتم فريد الواعر",
+    "streamUrl": "https://backup.qurango.net/radio/hatem_fareed_alwaer",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمود الرفاعي",
+    "streamUrl": "https://backup.qurango.net/radio/mahmood_al_rifai",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة ابراهيم الدوسري",
+    "streamUrl": "https://backup.qurango.net/radio/ibrahim_aldosari",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة مفتاح السلطني",
+    "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة جمعان العصيمي",
+    "streamUrl": "https://backup.qurango.net/radio/jamaan_alosaimi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة مفتاح السلطني",
+    "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة يوسف بن نوح أحمد",
+    "streamUrl": "https://backup.qurango.net/radio/yousef_bin_noah_ahmad",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة مفتاح السلطني",
+    "streamUrl": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة معيض الحارثي",
+    "streamUrl": "https://backup.qurango.net/radio/moeedh_alharthi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد رشاد الشريف",
+    "streamUrl": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة أحمد خضر الطرابلسي",
+    "streamUrl": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة أحمد الطرابلسي",
+    "streamUrl": "https://backup.qurango.net/radio/ahmed_altrabulsi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة عبدالله الكندري",
+    "streamUrl": "https://backup.qurango.net/radio/abdullah_alkandari",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة أحمد عامر",
+    "streamUrl": "https://backup.qurango.net/radio/ahmed_amer",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة محمد عثمان خان",
+    "streamUrl": "https://backup.qurango.net/radio/mohammed_osman_khan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة الدوكالي محمد العالم",
+    "streamUrl": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة محمد عبدالكريم",
+    "streamUrl": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة الفاتح محمد الزبير",
+    "streamUrl": "https://backup.qurango.net/radio/alfateh_alzubair",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة طارق عبدالغني دعوب",
+    "streamUrl": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "-الإذاعة العامة - اذاعة متنوعة لمختلف القراء",
+    "streamUrl": "https://backup.qurango.net/radio/mix",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة -تلاوات خاشعة-",
+    "streamUrl": "https://backup.qurango.net/radio/salma",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة تكبيرات العيد",
+    "streamUrl": "https://backup.qurango.net/radio/eid",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": " إذاعة عبدالرحمن الماجد",
+    "streamUrl": "https://backup.qurango.net/radio/abdulrahman_almajed",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة الفتاوى العامة",
+    "streamUrl": "https://backup.qurango.net/radio/fatwa",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة الرقية الشرعية",
+    "streamUrl": "https://backup.qurango.net/radio/roqiah",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة ---سورة البقرة - لعدد من القراء---",
+    "streamUrl": "https://backup.qurango.net/radio/albaqarah",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة --تفسير القران الكريم--",
+    "streamUrl": "https://backup.qurango.net/radio/tafseer",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة خالد الجليل",
+    "streamUrl": "https://backup.qurango.net/radio/khalid_aljileel",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة ناصر الماجد",
+    "streamUrl": "https://backup.qurango.net/radio/nasser_almajed",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة هيثم الجدعاني",
+    "streamUrl": "https://backup.qurango.net/radio/hitham_aljadani",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة أحمد خليل شاهين",
+    "streamUrl": "https://backup.qurango.net/radio/ahmad_shaheen",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة عبدالله الموسى",
+    "streamUrl": "https://backup.qurango.net/radio/abdullah_almousa",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة عبدالله الخلف",
+    "streamUrl": "https://backup.qurango.net/radio/abdullah_alkhalaf",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "-تراتيل قصيرة متميزة-",
+    "streamUrl": "https://backup.qurango.net/radio/tarateel",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة ماجد الزامل",
+    "streamUrl": "https://backup.qurango.net/radio/majed_alzamel",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة بندر بليلة",
+    "streamUrl": "https://backup.qurango.net/radio/bandar_balilah",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة ناصر العصفور",
+    "streamUrl": "https://backup.qurango.net/radio/nasser_alosfor",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة محمد أيوب - قراءة مميزة-",
+    "streamUrl": "https://backup.qurango.net/radio/ayyoub2",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة أحمد ديبان",
+    "streamUrl": "https://backup.qurango.net/radio/ahmad_deban",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "أذاعة محمد أبوسنينة",
+    "streamUrl": "https://backup.qurango.net/radio/sneineh",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة محمد الأمين قنيوة",
+    "streamUrl": "https://backup.qurango.net/radio/qeniwa",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة عبدالرحمن الشحات",
+    "streamUrl": "https://backup.qurango.net/radio/a_alshahhat",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "عبدالعزيز سحيم",
+    "streamUrl": "https://backup.qurango.net/radio/a_sheim",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "آيات السكينة",
+    "streamUrl": "https://backup.qurango.net/radio/sakeenah",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "---إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم---",
+    "streamUrl": "https://backup.qurango.net/radio/sahabah",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "المختصر في تفسير القرآن الكريم",
+    "streamUrl": "https://backup.qurango.net/radio/mukhtasartafsir",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "أذكار الصباح",
+    "streamUrl": "https://backup.qurango.net/radio/athkar_sabah",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "أذكار المساء",
+    "streamUrl": "https://backup.qurango.net/radio/athkar_masa",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم",
+    "streamUrl": "https://backup.qurango.net/radio/fi_zilal_alsiyra",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "المختصر في السيرة النبوية",
+    "streamUrl": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
+    "streamUrl": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "تفسير القران الكريم-الخلاصة من تفسير الطبري",
+    "streamUrl": "https://backup.qurango.net/radio/tabri",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "صالح الهبدان",
+    "streamUrl": "https://backup.qurango.net/radio/saleh_alhabdan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الأوردية - عبدالباسط عبدالصمد",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_urdu_basit",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الأسبانية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_spanish_afs",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الألبانية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_albanian",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الألمانية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_german",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الأمازيغية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_tamazight",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الأوردية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الأوردية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_urdu_minsh",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الإنجليزية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_basit",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الإنجليزية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_bsfr",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الإنجليزية -ترجمة والك-",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_english_walk_basit",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة البرتغالية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_portuguese",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة البوسنية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_bosnia",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة التركية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_turkish",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الروسية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_Russia",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الصينية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_chinese",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الفارسية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_farsi",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الفرنسية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_french",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الكردية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_kurdish",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الكورية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_Korean",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة المجرية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_hungarian",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة اليونانية",
+    "streamUrl": "https://backup.qurango.net/radio/translation_quran_greek",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "سورة الملك",
+    "streamUrl": "https://backup.qurango.net/radio/Surah_Al-Mulk",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "فضل شهر رمضان",
+    "streamUrl": "https://backup.qurango.net/radio/ramadan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "ترجمة معاني القرآن باللغة الهوسا",
+    "streamUrl": "https://backup.qurango.net/radio/Translation_Quran_Hausa",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "صحيح مسلم",
+    "streamUrl": "https://backup.qurango.net/radio/saheh-muslim",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "صحيح البخاري",
+    "streamUrl": "https://backup.qurango.net/radio/saheh-bokharee",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "***قصص الأنبياء***",
+    "streamUrl": "https://backup.qurango.net/radio/alanbiya",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "رياض الصالحين",
+    "streamUrl": "https://backup.qurango.net/radio/riyad",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "عبدالله البعيجان",
+    "streamUrl": "https://backup.qurango.net/radio/buajan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "أحمد طالب بن حميد",
+    "streamUrl": "https://backup.qurango.net/radio/a_binhameed",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "تفسير غريب القرآن",
+    "streamUrl": "https://backup.qurango.net/radio/gareeb-quran",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "بدر التركي",
+    "streamUrl": "https://backup.qurango.net/radio/bader",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "هزاع البلوشي",
+    "streamUrl": "https://backup.qurango.net/radio/hazza",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  },
+  {
+    "name": "إذاعة القرآن الكريم - السعودية",
+    "streamUrl": "https://stream.radiojar.com/0tpy1h0kxtzuv",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "genre": "Religious"
+  }
 ]
-
