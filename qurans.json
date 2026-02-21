@@ -1,6 +1,6 @@
 {
   "meta": {
-    "logoBaseUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/",
+    "logoBaseUrl": "https://i1.sndcdn.com/artworks-000103683025-3jm4r1-t500x500.jpg",
     "audioFilePattern": "{server}{surah:03}.mp3"
   },
   "reciters": [
@@ -31715,3 +31715,4 @@
     }
   ]
 }
+
