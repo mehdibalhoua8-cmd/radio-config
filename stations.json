@@ -7,7 +7,7 @@
   },
   {
     "name": "Chada FM",
-    "streamUrl": "https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+    "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio",
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
     "genre": "General"
   },
@@ -139,7 +139,7 @@
   },
   {
     "name": "Hit Radio TikTok",
-    "streamUrl": "http://tiktok.ice.infomaniak.ch/tiktok-128.mp3",
+    "streamUrl": "http://buzz.ice.infomaniak.ch/buzz-128.mp3",
     "logoUrl": "https://hittradio.com/uploads/webradio/100__TIKTOK.jpg",
     "genre": "Music"
   },
