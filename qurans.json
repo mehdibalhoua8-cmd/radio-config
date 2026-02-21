@@ -23675,7 +23675,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/shatri/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/4.png"
+      "logoUrl": "https://i.pinimg.com/280x280_RS/e0/fa/7e/e0fa7e0b10e68d70d628a257acce0e8a.jpg"
     },
     {
       "id": 40,
@@ -31715,4 +31715,5 @@
     }
   ]
 }
+
 
