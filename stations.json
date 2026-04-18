@@ -491,13 +491,13 @@
   {
     "name": "U Pop",
     "streamUrl": "https://upop.ice.infomaniak.ch/upop-128.aac",
-    "logoUrl": "https://uradio.ma/wp-content/uploads/2023/04/Upop.png",
+    "logoUrl": "https://kso.mo.cloudinary.net/img/radio/upop.png",
     "genre": "Music"
   },
   {
     "name": "U Rban",
     "streamUrl": "https://urban.ice.infomaniak.ch/urban-128.aac",
-    "logoUrl": "https://uradio.ma/wp-content/uploads/2023/04/U-rban.png",
+    "logoUrl": "https://kso.mo.cloudinary.net/img/radio/urban.png",
     "genre": "Music"
   },
   {
