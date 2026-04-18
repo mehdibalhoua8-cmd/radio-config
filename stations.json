@@ -353,31 +353,31 @@
   {
     "name": "Medina Amazigh",
     "streamUrl": "http://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3",
-    "logoUrl": "https://medinafm.ma/wp-content/uploads/2020/10/AMAZIGH.png",
+    "logoUrl": "https://api.medinafm.ma/uploads/11ee4925-5901-4d5f-81f3-23db7b0a3fa6.png",
     "genre": "Music"
   },
   {
     "name": "Medina Andalou",
     "streamUrl": "http://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3",
-    "logoUrl": "https://medinafm.ma/wp-content/uploads/2020/10/ANDALOU.png",
+    "logoUrl": "https://api.medinafm.ma/uploads/fbd01c81-1f43-4f10-8682-19738ca43aec.png",
     "genre": "Music"
   },
   {
     "name": "Medina Nachat",
     "streamUrl": "http://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3",
-    "logoUrl": "https://medinafm.ma/wp-content/uploads/2020/10/NACHAT.png",
+    "logoUrl": "https://api.medinafm.ma/uploads/43a70411-46cc-40c7-b4bb-7fcb41ce70ea.png",
     "genre": "Music"
   },
   {
     "name": "Medina Nostalgie",
     "streamUrl": "https://medinanostalgie.ice.infomaniak.ch/medinanostalgie-128.mp3",
-    "logoUrl": "https://medinafm.ma/wp-content/uploads/2020/10/NOSTALGIE.png",
+    "logoUrl": "https://api.medinafm.ma/uploads/335c74c0-5b0a-4136-8945-cb7a6c4b4424.png",
     "genre": "Music"
   },
   {
     "name": "Medina Tarab",
     "streamUrl": "http://medinatarab.ice.infomaniak.ch/medinatarab-128.mp3",
-    "logoUrl": "https://medinafm.ma/wp-content/uploads/2020/10/TARAB.png",
+    "logoUrl": "https://api.medinafm.ma/uploads/f0b5829f-c5ed-4acc-a775-d921ecd2edc7.png",
     "genre": "Music"
   },
   {
